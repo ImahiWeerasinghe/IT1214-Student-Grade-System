@@ -1,9 +1,10 @@
+//create student class
 class Student{
 	private String studentId;
 	private String studentName;
 	private int marks;
 	
-	
+
 	public Student(String studentId,String studentName,int marks){
 		this.studentId=studentId;
 		this.studentName=studentName;

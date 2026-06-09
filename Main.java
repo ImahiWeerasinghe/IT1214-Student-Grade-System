@@ -8,7 +8,7 @@ class Main{
 	
  public static void main(String[]arg){
 	int choice;
-	
+	// add input functionality
 	do{
 		System.out.println("\n--- Student Grade Management System ---");
             System.out.println("1. Add a Student");
