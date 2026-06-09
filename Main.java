@@ -75,6 +75,7 @@ class Main{
 					  if (studentList.isEmpty()) {
 						System.out.println("No records found to calculate an average.");
 					} else {
+						//Add search and average calculation
 						double sum = 0;
 						for (Student s : studentList) {
 							sum = sum + s.getMarks();
